@@ -1,0 +1,1 @@
+list = ['list of emails you want to send to']
